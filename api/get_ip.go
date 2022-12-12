@@ -9,7 +9,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/julienschmidt/httprouter"
-	"github.com/rdegges/ipify-api/models"
+	"github.com/valbury-repos/ipify-api/models"
 	"net"
 	"net/http"
 	"strings"

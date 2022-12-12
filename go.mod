@@ -1,4 +1,4 @@
-module github.com/rdegges/ipify-api
+module github.com/valbury-repos/ipify-api
 
 go 1.16
 
